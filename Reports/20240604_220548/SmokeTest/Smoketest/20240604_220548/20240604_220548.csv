@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Smoketest,Chrome 125.0.0.0,,,04-06-2024 22:06:12,04-06-2024 22:06:24,11.753s,FAILED
+,,,,,,,
+Test Cases/SmokeTest,Chrome 125.0.0.0,,,04-06-2024 22:06:13,04-06-2024 22:06:24,10.745s,FAILED
+"openBrowser(""https://demoqa.com/"")",Chrome 125.0.0.0,,,04-06-2024 22:06:15,04-06-2024 22:06:24,9.420s,FAILED
